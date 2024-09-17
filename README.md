@@ -2,7 +2,7 @@
 **Overview:**
 
 Hive Setup: Initialize Hive, register the required adapters, and store the workout data.
-Data Models: Define the models for WorkoutSet and Workout and generate Hive adapters for them.
+Data Models: Define the models for WorkoutSet and Workout and generate Hive adapters.
 UI Components: Create the workout screen where users can log their exercises, weights, and repetitions.
 Data Persistence: Store the workout data in Hive when the user saves a workout.
 
